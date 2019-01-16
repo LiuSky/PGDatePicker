@@ -1,0 +1,22 @@
+/*
+ Localizable.strings
+ 
+ Created by piggybear on 2017/11/4.
+ Copyright © 2017年 piggybear. All rights reserved.
+ */
+
+"yearString" = "연";
+"monthString" = "월";
+"dayString" = "일";
+"hourString" = "무";
+"minuteString" = "렵";
+"secondString" = "초";
+"mondayString" = "월요일 ";
+"tuesdayString" = "화요일";
+"wednesdayString" = "수요일";
+"thursdayString" = "목요일";
+"fridayString" = "금요일";
+"saturdayString" = "토요일";
+"sundayString" = "일요일";
+"cancelButtonText" = "취소";
+"confirmButtonText" = "확정";
